@@ -31,6 +31,8 @@ You can use a tool like [degit](https://github.com/Rich-Harris/degit) to scaffol
 npx degit cyberbobs/vite-vue-prettier my-project
 cd my-project
 
+git init .
+
 yarn
 yarn dev
 ```
